@@ -53,6 +53,32 @@ python main.py
 - Renders the full dashboard in the terminal with live refresh
 - Sends notifications to a Telegram bot about a trend change and about a strong bullish/bearish trend.
 ---
+## Why It's Useful – Benefits for Traders
+
+This tool bridges two powerful data sources that rarely get combined in real time:
+
+1. **Binance Order Flow**  
+   Real institutional/retail pressure visible in live order book, aggressive trades (CVD, delta), imbalances → helps spot momentum before price moves.
+
+2. **Polymarket Prediction Markets**  
+   Crowd wisdom priced in Up/Down contracts → often leads spot price in short-term sentiment (especially on volatile coins like SOL or during news).
+
+**By merging them you get:**
+- Early detection of directional bias (order flow confirms / contradicts Polymarket odds)
+- Higher-confidence entries on Polymarket binary bets (Up/Down in 5–60 min windows)
+- Better spot/futures trading decisions (e.g. avoid fighting strong CVD against you)
+- Reduced emotional trading — clear aggregated score + visual indicators
+- Timely alerts → no need to stare at screen 24/7
+
+**Who benefits most:**
+- Polymarket traders looking for an edge on short-term markets
+- Spot/day traders who want prediction-market sentiment as a filter
+- Crypto enthusiasts experimenting with order-flow + prediction arbitrage
+- Anyone building their own bots — this is a solid real-time data foundation
+
+In short: more data → better-informed decisions → potentially higher win rate in fast-moving crypto markets.
+
+---
 
 ## Supported coins & timeframes
 
