@@ -2,9 +2,17 @@
 
 Real-time terminal dashboard that combines live Binance order flow with Polymarket prediction market prices to surface actionable crypto signals.
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub stars](https://img.shields.io/github/stars/FiatFiorino/polymarket-assistant-tool?style=social)
+![GitHub forks](https://img.shields.io/github/forks/FiatFiorino/polymarket-assistant-tool?style=social)
+
+---
+
 ## Screenshots
 ![alt](screen1.png)
 ![alt](screen2.png)
+
 ---
 
 ## Setup
