@@ -91,6 +91,9 @@ All 16 coin × timeframe combinations are supported on Polymarket.
 - [ ] Paper trading & real exchange integration
 - [ ] Additional indicators: Bollinger Bands, Funding Rates, Liquidation data
 
+---
 
+## License
 
+MIT License — see the LICENSE file.
 
