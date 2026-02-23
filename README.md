@@ -3,8 +3,8 @@
 Real-time terminal dashboard that combines live Binance order flow with Polymarket prediction market prices to surface actionable crypto signals.
 
 # Screenshots
-![alt](images/screen1.png)
-![alt](images/screen2.png)
+![alt](screen1.png)
+![alt](screen2.png)
 ---
 
 ## What it does
