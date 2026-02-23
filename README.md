@@ -87,9 +87,9 @@ All 16 coin × timeframe combinations are supported on Polymarket.
 
 ## Roadmap (planned features)
 
-- [ ]Web version (Streamlit / Dash)
-- [ ]Paper trading & real exchange integration
-- [ ]Additional indicators: Bollinger Bands, Funding Rates, Liquidation data
+- [ ] Web version (Streamlit / Dash)
+- [ ] Paper trading & real exchange integration
+- [ ] Additional indicators: Bollinger Bands, Funding Rates, Liquidation data
 
 
 
