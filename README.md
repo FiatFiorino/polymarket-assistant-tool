@@ -15,8 +15,21 @@ Real-time terminal dashboard that combines live Binance order flow with Polymark
 
 ---
 
-## Setup
+## Quick Start
 
+### Requirements
+
+- Python **3.10 or higher** (recommended: 3.11 / 3.12)  
+  → https://www.python.org/downloads/
+
+### Installation
+
+1. Clone the repository
+```bash
+   git clone https://github.com/FiatFiorino/polymarket-assistant-tool.git
+   cd polymarket-assistant-tool
+```
+2. 
 ```bash
 pip install -r requirements.txt
 python main.py
