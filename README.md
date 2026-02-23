@@ -2,7 +2,9 @@
 
 Real-time terminal dashboard that combines live Binance order flow with Polymarket prediction market prices to surface actionable crypto signals.
 
-!"Service unavailable from a restricted location according to 'b. Eligibility' in https://www.binance.com/en/terms. Please contact customer service if you believe you received this message in error." - IP of your VPS is banned, or you are in blacklisted country.
+# Screenshots
+![alt](images/screen1.png)
+![alt](images/screen2.png)
 ---
 
 ## What it does
