@@ -29,9 +29,23 @@ Real-time terminal dashboard that combines live Binance order flow with Polymark
    git clone https://github.com/FiatFiorino/polymarket-assistant-tool.git
    cd polymarket-assistant-tool
 ```
-2. 
+2. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+3.Configure .env file (very important!)
+```bash
+cp .env.example .env
+```
+Open .env and fill in your values:
+TELEGRAM_BOT_TOKEN=your_bot_token_here
+TELEGRAM_CHAT_ID=-1001234567890
+STRONG_BULL_THRESHOLD=78
+STRONG_BEAR_THRESHOLD=22
+VERY_STRONG_BULL=88
+VERY_STRONG_BEAR=12
+4. Run the tool
+```bash
 python main.py
 ```
 ---
