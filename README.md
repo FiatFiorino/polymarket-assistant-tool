@@ -7,6 +7,13 @@ Real-time terminal dashboard that combines live Binance order flow with Polymark
 ![alt](screen2.png)
 ---
 
+## Setup
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+---
 ## What it does
 
 - Streams live trades and orderbook from **Binance**
@@ -48,12 +55,7 @@ All 16 coin × timeframe combinations are supported on Polymarket.
 
 ---
 
-## Setup
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
 
 ---
 
