@@ -123,7 +123,7 @@ def _header(st, coin, tf):
 
     parts.append(("\n", ""))
     parts.append(("  Polymarket Crypto Assistant", "dim white"))
-    parts.append(("  |  @SolSt1ne", "dim cyan"))
+    parts.append(("  |  FiatFiorino", "dim cyan"))
 
     return Panel(
         Text.assemble(*parts),
