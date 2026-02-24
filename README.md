@@ -33,13 +33,7 @@ Real-time terminal dashboard that combines live Binance order flow with Polymark
 ```bash
 pip install -r requirements.txt
 ```
-3.Configure .env file (very important!)
-```bash
-cp .env.example .env
-```
-Open .env and fill in your values.
-
-4. Run the tool
+3. Run the tool
 ```bash
 python main.py
 ```
